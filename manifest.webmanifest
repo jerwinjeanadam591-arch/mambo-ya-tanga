@@ -1,0 +1,17 @@
+{
+  "name": "Mambo ya Tanga",
+  "short_name": "Mambo ya Tanga",
+  "description": "Food, juice and catering orders from Mambo ya Tanga in Mafinga, Iringa.",
+  "start_url": "/order.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#fea116",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
